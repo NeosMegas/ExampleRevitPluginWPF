@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Application ExampleRevitPluginWPF</Name>
+		<Assembly>ExampleRevitPluginWPF.dll</Assembly>
+		<FullClassName>ExampleRevitPluginWPF.App</FullClassName>
+		<AddInId>f8fdb023-34ec-4cf3-8693-66f1374033df</AddInId>
+		<VendorId>Neo</VendorId>
+		<VendorDescription>Neo, https://github.com/NeosMegas</VendorDescription>
+	</AddIn>
+</RevitAddIns>
